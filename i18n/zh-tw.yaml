@@ -119,7 +119,7 @@
 - id: rss
   translation: 使用 RSS 來訂閱
 - id: toAllUpdates
-  translation: to all updates
+  translation: 所有項目
 - id: or
   translation: or
 - id: onlyThisFeed
